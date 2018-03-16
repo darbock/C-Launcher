@@ -1,0 +1,9 @@
+c:\Users\Ac3\Desktop\codage\ProjectOne\bin\Debug\netcoreapp1.1\ProjectOne.deps.json
+c:\Users\Ac3\Desktop\codage\ProjectOne\bin\Debug\netcoreapp1.1\ProjectOne.runtimeconfig.json
+c:\Users\Ac3\Desktop\codage\ProjectOne\bin\Debug\netcoreapp1.1\ProjectOne.runtimeconfig.dev.json
+c:\Users\Ac3\Desktop\codage\ProjectOne\obj\Debug\netcoreapp1.1\ProjectOne.AssemblyInfo.cs
+c:\Users\Ac3\Desktop\codage\ProjectOne\bin\Debug\netcoreapp1.1\ProjectOne.dll
+c:\Users\Ac3\Desktop\codage\ProjectOne\bin\Debug\netcoreapp1.1\ProjectOne.pdb
+c:\Users\Ac3\Desktop\codage\ProjectOne\obj\Debug\netcoreapp1.1\ProjectOne.dll
+c:\Users\Ac3\Desktop\codage\ProjectOne\obj\Debug\netcoreapp1.1\ProjectOne.pdb
+C:\Users\Ac3\Desktop\codage\ProjectOne\obj\Debug\netcoreapp1.1\ProjectOne.csprojResolveAssemblyReference.cache
